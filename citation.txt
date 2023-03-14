@@ -1,0 +1,7 @@
+@inproceedings{REPO-031,
+    author = "Liu, Yongcheng and Fan, Bin and Xiang, Shiming and Pan, Chunhong",
+    booktitle = "Proceedings of the IEEE/CVF conference on computer vision and pattern recognition",
+    pages = "8895--8904",
+    title = "{Relation-shape Convolutional Neural Network for Point Cloud Analysis}",
+    year = "2019"
+}
